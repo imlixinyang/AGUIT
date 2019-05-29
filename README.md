@@ -8,6 +8,8 @@ The project page of our paper:
 
 If you have any problem, please feel free to contact us.
 
+![examples.](https://github.com/imlixinyang/AGUIT/blob/master/Figures/examples.png)
+
 # Merits of AGUIT
 
 ![merits.](https://github.com/imlixinyang/AGUIT/blob/master/Figures/merits.png)
@@ -23,8 +25,6 @@ If you have any problem, please feel free to contact us.
 - **Disentanglement & Fine Control**: The encoded attribute/domain representations are disentangled and can be fine controled.
 
 - **Disentangled Transfer**: We introduce this new challenge for image-to-image translation community, which adopts the disentangled representation to translate data less related with the training set. For example, the models trained with human faces can be used to put eyeglasses on the dog's or cat's faces in the disentangled transfer.
-
-![examples.](https://github.com/imlixinyang/AGUIT/blob/master/Figures/examples.png)
 
 # Citation
 If our paper helps your research, please cite it in your publications:
