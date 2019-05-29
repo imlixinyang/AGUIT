@@ -2,11 +2,33 @@
 
 # AGUIT: Attribute Guided Unpaired Image Translation
 
-![demo.](./Figures/demo.gif)
+<div style="font-size=0"> 
+    <img width="15%" src="./Figures/source.gif"/>
+    <img width="15%" src="./Figures/smile.gif"/>
+	<img width="15%" src="./Figures/goatee.gif"/>
+    <img width="15%" src="./Figures/famale.gif"/>
+    <img width="15%" src="./Figures/aged.gif"/>
+</div>
+
+<div style="font-size=0"> 
+    <img width="15%" src="./Figures/rand_1.gif"/>
+    <img width="15%" src="./Figures/rand_2.gif"/>
+	<img width="15%" src="./Figures/rand_3.gif"/>
+    <img width="15%" src="./Figures/rand_4.gif"/>
+    <img width="15%" src="./Figures/rand_5.gif"/>
+</div>
+
+<div style="font-size=0"> 
+    <img width="15%" src="./Figures/rand_6.gif"/>
+    <img width="15%" src="./Figures/rand_7.gif"/>
+	<img width="15%" src="./Figures/rand_8.gif"/>
+    <img width="15%" src="./Figures/rand_9.gif"/>
+    <img width="15%" src="./Figures/rand_10.gif"/>
+</div>
 
 Code will be available soon.
 
-### [Paper](https://arxiv.org/abs/1904.12428) | [Demo (Coming Soon)]()
+### [Project](https://github.com/imlixinyang/aguit) | [Paper](https://arxiv.org/abs/1904.12428) | [Demo (Coming Soon)]()
 
 "Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning." Li, X., Hu, J., Zhang, S., Hong, X., Ye, Q., Wu, C., & Ji, R. *arXiv preprint.*
 
@@ -46,5 +68,5 @@ If you have any problem, please feel free to contact us.
 
 ## Related Work
 
-Our work benefit from code of [MUNIT][https://github.com/NVlabs/MUNIT], [DRIT][https://github.com/HsinYingLee/DRIT], [StarGAN][https://github.com/yunjey/stargan], etc.
+Our work benefits from code of [MUNIT](https://github.com/NVlabs/MUNIT), [DRIT](https://github.com/HsinYingLee/DRIT), [StarGAN](https://github.com/yunjey/stargan), etc.
 
