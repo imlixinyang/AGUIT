@@ -2,29 +2,7 @@
 
 # AGUIT: Attribute Guided Unpaired Image Translation
 
-<div style="font-size=0"> 
-    <img width="15%" src="./Figures/source.gif"/>
-    <img width="15%" src="./Figures/smile.gif"/>
-	<img width="15%" src="./Figures/goatee.gif"/>
-    <img width="15%" src="./Figures/famale.gif"/>
-    <img width="15%" src="./Figures/aged.gif"/>
-</div>
-
-<div style="font-size=0"> 
-    <img width="15%" src="./Figures/rand_1.gif"/>
-    <img width="15%" src="./Figures/rand_2.gif"/>
-	<img width="15%" src="./Figures/rand_3.gif"/>
-    <img width="15%" src="./Figures/rand_4.gif"/>
-    <img width="15%" src="./Figures/rand_5.gif"/>
-</div>
-
-<div style="font-size=0"> 
-    <img width="15%" src="./Figures/rand_6.gif"/>
-    <img width="15%" src="./Figures/rand_7.gif"/>
-	<img width="15%" src="./Figures/rand_8.gif"/>
-    <img width="15%" src="./Figures/rand_9.gif"/>
-    <img width="15%" src="./Figures/rand_10.gif"/>
-</div>
+![demo](./Figures/1.gif)
 
 Code will be available soon.
 
