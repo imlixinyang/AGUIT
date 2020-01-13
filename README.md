@@ -38,7 +38,13 @@ You need to use python3 to run this code. Other requirements are:
 
 - tensorboardX
 
-Besides, you need to format your dataset, like the datasets/CelebA_example. (the labeled folder and label.txt consist of the labeled images and their labels, and the unlabeled folder consists of the unlabeled image.)
+Besides, you need to format your dataset, like the ./datasets/CelebA_example. (the labeled folder and label.txt consist of the labeled images and their labels, and the unlabeled folder consists of the unlabeled image.)
+
+Run the code with default configuration by (python train.py --config configs/face.yaml).
+
+The outputs and checkpoint would be in ./outputs
+
+And test your model by modify the code in test.py and (python test.py --config configs/face.yaml --checkpoint #your_checkpoint --input #your_input --output_dir #your_output_dir)
 
 ## Citation
 
