@@ -30,6 +30,16 @@ Code will be available soon.
 
 - **Disentangled Transfer**: We introduce this new challenge for image-to-image translation community, which adopts the disentangled representation to translate data less related with the training set. For example, the models trained with human faces can be used to put eyeglasses on the dog's or cat's faces in the disentangled transfer.
 
+## Usage
+
+You need to use python3 to run this code. Other requirements are:
+
+- pytorch
+
+- tensorboardX
+
+Besides, you need to format your dataset, like the datasets/CelebA_example. (the labeled folder and label.txt consist of the labeled images and their labels, and the unlabeled folder consists of the unlabeled image.)
+
 ## Citation
 
 If our paper helps your research, please cite it in your publications:
