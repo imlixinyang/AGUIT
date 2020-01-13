@@ -46,6 +46,8 @@ The outputs and checkpoint would be in ./outputs
 
 And test your model by modify the code in test.py and (python test.py --config configs/face.yaml --checkpoint #your_checkpoint --input #your_input --output_dir #your_output_dir)
 
+The gui-test-code is waiting for a final check, it would be more easy for you to test your model in the future. Please wait for couples of days.
+
 ## Citation
 
 If our paper helps your research, please cite it in your publications:
