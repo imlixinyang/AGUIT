@@ -109,7 +109,7 @@ class ContentDis(nn.Module):
         out1 = self.forward(c_u)
         loss = torch.mean((out0[:, 0:self.out_dim - 1] - l) ** 2) + \
                torch.mean((out0[:, self.out_dim - 1] - 1) ** 2) + \
-               torch.mean((out0[:, self.out_dim - 1] + 1) ** 2)
+               torch.mean((out1[:, self.out_dim - 1] + 1) ** 2)
         return loss
 
     def calc_gen_loss(self, c_l, c_u, l):
@@ -118,7 +118,7 @@ class ContentDis(nn.Module):
         out1 = self.forward(c_u)
         loss = torch.mean((out0[:, 0:self.out_dim - 1] + l) ** 2) + \
                torch.mean((out0[:, self.out_dim - 1] + 1) ** 2) + \
-               torch.mean((out0[:, self.out_dim - 1] - 1) ** 2)
+               torch.mean((out1[:, self.out_dim - 1] - 1) ** 2)
         return loss
 
 class AdaINGen(nn.Module):
