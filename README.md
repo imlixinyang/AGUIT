@@ -4,13 +4,9 @@
 
 ![demo](./Figures/1.gif)
 
-Code will be available soon.
-
-### [Project](https://github.com/imlixinyang/aguit) | [Paper](https://arxiv.org/abs/1904.12428) | [Demo (Coming Soon)]()
+### [Project](https://github.com/imlixinyang/aguit) | [Paper](https://arxiv.org/abs/1904.12428)
 
 "Attribute Guided Unpaired Image-to-Image Translation with Semi-supervised Learning." Li, X., Hu, J., Zhang, S., Hong, X., Ye, Q., Wu, C., & Ji, R. *arXiv preprint.*
-
-
 
 <img width="70%" src="./Figures/examples.png"/>
 
